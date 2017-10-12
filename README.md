@@ -1,24 +1,7 @@
-# README
+# padraic.website
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Rails API for my personal site.
 
-Things you may want to cover:
+## License
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is licensed under the MIT License.

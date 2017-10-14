@@ -6,7 +6,7 @@ class Api::V1::PostsController < ApplicationController
 
   def show
     id = params[:id]
-    render json: Post.where(id: id)
+    render json: Post.find(id)
   end
 
 end
